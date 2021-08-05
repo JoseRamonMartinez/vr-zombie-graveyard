@@ -4,7 +4,7 @@ _Project developed for the subject "Virtual and Augmented Reality". The project 
 
 ### Demo 💻
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=0FNBLh0PBcQ/0.jpg)](https://www.youtube.com/watch?v=0FNBLh0PBcQ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0FNBLh0PBcQ/0.jpg)](https://www.youtube.com/watch?v=0FNBLh0PBcQ)
 
 Unreal Engine Smulator
 
